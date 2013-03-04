@@ -1,4 +1,4 @@
-"""Models for the ``entry_attachments`` app."""
+"""Models for the ``cmsplugin_blog_attachments`` app."""
 from django.db import models
 from django.utils.translation import ugettext_lazy as _
 

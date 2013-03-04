@@ -1,4 +1,4 @@
-"""URLs for the ``buildEE`` project."""
+"""URLs for the ``cmsplugin_blog_attachments`` project."""
 from django.conf.urls.defaults import patterns, include, url
 from django.contrib import admin
 
